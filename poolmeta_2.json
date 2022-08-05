@@ -1,7 +1,7 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://github.com/danielalexlarsen/poolmeta/blob/main/logostake.png",
-		"url_png_logo": "https://github.com/danielalexlarsen/poolmeta/blob/main/equty_rigtig_pool_logo_png.png",
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/danielalexlarsen/poolmeta/main/logostake.png",
+		"url_png_logo": "https://raw.githubusercontent.com/danielalexlarsen/poolmeta/main/equty_rigtig_pool_logo_png.png",
 		"location": "Copenhagen, Denmark",
 		"social": {
 			"telegram_handle": "https://t.me/OneEquity",
